@@ -1,8 +1,8 @@
-- 👋 Hi, I’m @daninsky1
-- 👀 I’m interested in ...
-- 🌱 I’m currently learning programing in c/c++
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
+- 👋 Hi, I’m @daninsky.
+- 👀 I’m interested in graphics programming.
+- 🌱 I’m currently learning programing in c/c++.
+- 💞️ I’m looking to collaborate on a 2d graphics editor.
+- 📫 How to reach me daninsky@protonmail.com.
 
 <!---
 daninsky1/daninsky1 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
