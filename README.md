@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @daninsky.
 - 👀 I’m interested in graphics programming.
-- 🌱 I’m currently learning programing in c/c++.
+- 🌱 I’m currently learning programing in C/C++.
 - 💞️ I’m looking to collaborate on a 2d graphics editor.
 - 📫 How to reach me daninsky@protonmail.com.
 
