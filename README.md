@@ -3,7 +3,7 @@
 I'm a fullstack web developer from Brazil with a strong interest in performant, maintainable code and system design.
 In my spare time, I explore low-level programming with C/C++ and graphics development.
 
-One of my first meaningful programs was a web scraper for Duolingo, written in Python. That project sparked my curiosity and eventually led me to study Programming Principles and Practice Using C++, which in turn inspired me to pursue a Bachelor's degree in Computer Science.
+One of my first meaningful programs was a web scraper for Duolingo, written in Python. That project sparked my curiosity and eventually led me to study **Programming Principles and Practice Using C++**, which in turn inspired me to pursue a Bachelor's degree in Computer Science.
 
 My passion for computing started early, driven by the rich and immersive worlds of PlayStation 2 games like Black (2006) and God of War II.
 
